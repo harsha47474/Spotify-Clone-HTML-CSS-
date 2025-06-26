@@ -22,7 +22,7 @@ A simple and responsive clone of the Spotify homepage designed using only HTML a
 ---
 
 ## 📸 Preview
-![App Screenshot](assets/Screenshot.png)
+![App Screenshot](assests/Screenshot.png)
 ---
 
 ## 🌐 Live Demo
